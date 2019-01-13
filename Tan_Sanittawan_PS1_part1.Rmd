@@ -1,0 +1,81 @@
+---
+title: "Homework 01"
+author: "Sanittawan Nikki Tan"
+date: "1/11/2019"
+output:
+  pdf_document: default
+  word_document: default
+  html_document: default
+---
+
+The submission for problem set 1 consists of 4 files:
+
+* __Tan_Sanittawan_PS1_part1.Rmd__ (and the pdf version) - This file contains answers to the Building Models part and the first question of the Selecting and Fitting a model part
+* __Tan_Sanittawan_PS1_part2.ipynb__ (and the pdf version) - This file contains answers to the rest of the Selecting and Fitting a model part
+
+## Building models ##
+
+### Deviant aggressive behavior ###
+
+Sociologists have long tried to explain the causes of socially deviant aggressive behavior. Four theories offer different explanations which could lead to dissimilar policy implications. The first part of this essay discusses implications for social policy that will reduce deviant social behavior provided that a theory is true. The second part discusses the lesson learned from the American experience of "experiments" with deviant aggressive behavior.
+
+First, if the theory which claims that deviant aggressive behavior is learned from experience and that individuals respond to rewards and punishment is true, one social policy which could reduce such behavior is to impose severe punishment on perpetrators such as capital punishment or lifetime sentencing. Because people avoid doing things for which they will receive punishment, the policy will disincentivize people to express socially deviant aggressive behavior. For example, in South Korea, rape is punishable by the death penalty, which is considered the most severe type of punishment.[^1] Setting a punishment to be severe could potentially dissuade people from committing rape.
+
+The second theory stipulates that aggressive deviant behavior is "a symbolic expression of hostility toward personal authority figures." If this theory were to be true, the implication of appropriate social policy to curtail such behavior is, for example, to provide counseling services to individuals with anger issues. One way of carrying out the program is to provide a state-subsidized anger management course for individuals who show deviant aggressive behavior or people who have the potential to do so. Another example of a policy is to provide a safe space for these individuals to relieve their anger. However, this policy is fairly limited because it cannot be applied to every deviant aggressive behavior, especially for people who have criminal behavior.
+
+Thirdly, another theory claims that deviant aggressive behavior is "the rational action of oppressed individuals." People do not conform and show socially deviant aggressive behavior because they are under rules that discriminate against them. If we were to believe that this theory is true, the policy implication is to change the laws or rules to become fairer and less discriminatory against certain groups of people in a society. For example, if the government is convinced that certain ethnic groups engage in criminal activities because it is difficult for the members of this ethnic group to get a job due to discrimination by employers. The government may step in and change the rules to impose hiring quota on companies to hire people from this ethnic group, thus diverting them from illegal activities to a legal occupation.
+
+Finally, the fourth theory states that deviant aggressive behavior is a social role. When individuals make contact or engage with the deviant subculture, they were socialized into that role. One possible social policy to reduce deviant aggressive behavior based on this understanding is for the government to ban, make deviant subculture illegal, and crack down on it. The effort is to minimize contact or spreading of the subculture to individuals in a society. For example, joining street gangs could be viewed as deviant aggressive behavior. Street gangs can be considered a subculture because these gangs have their own organizational culture. In addition, they usually engage in violence and illegal activities. Cracking down on these gangs and making sure that they are not visible may be able to discourage individuals who want to join them.
+
+The U.S. has experienced various deviant aggressive behaviors from individuals in the country, some of which turned into violence and tragedy. One behavior that I want to discuss is mass shootings. What we can learn from the American society's experience with mass shootings are threefold. Firstly, the second theory which stipulates that deviant aggressive behavior is a symbolic expression against authoritative figures seems to best explain the perpetrators of mass shootings. This is because most perpetrators of mass shootings that were reported seem to be ostracized from their society or social circles. Some of them were victims of abuse at home or at school and authoritative figures like parents or teachers overlooked them. These individuals accumulate anger and relieve it by resorting to violence and carrying out mass shootings. Since the second theory seems to explain why mass shootings occur well, it brings us to the second lesson.
+
+The second lesson is that no model or theory is perfect. Unlike theory II, the first theory which argues that deviant aggressive behavior is learned from experience, as well as the rest of the theories do not seem to explain mass shootings very well. In general, one model may be good at explaining or predicting some events, but it is unlikely to have a universal explanation that explains every event or possibility of human behavior, especially in the social sciences. As no model is perfect, some may argue that the first theory does not capture another possible explanation. What if an individual is a sociopath? It seems reasonable to think that some people who engage in mass shootings merely like to do so. The urge of carrying out the shootings, to these people, is like the urge for entertainment, not because they feel frustrated and want to defy authority. In this sense, the first theory may not present the most accurate picture of how individuals behave.
+
+Finally, the last lesson is that models have to be based on reality in order to have explanatory or predictive power. We can easily see that all the above-mentioned models are probably constructed based on observations of and certain assumptions about human behavior. Each theory yields different prediction and policy implications. I think it is essential to choose the right model to explain an event of interest and be aware that there are trade-offs between theories. For example, it seems that theory I and theory III assume that humans are rational actors. In contrast, theory II and theory IV do not seem to make any explicit assumption about humans.   
+
+[^1]: https://www.deathpenaltyworldwide.org/country-search-post.cfm?country=South+Korea
+
+### Wait until the last minute ###
+
+This essay first explains why I think the observation claiming that people often do things at the last minute is true. Then, it discusses two generalized models that explain why people procrastinate and make two predictions for each model.
+
+From my perspective, the observation which states that people often do things at the last minute, or procrastinate, appears to be true because of the following reasons. Firstly, I am convinced because I sometimes do things at the last minute too, especially tasks that I deem unenjoyable and boring like filing taxes. The claim seems to be valid based on my personal experience. Secondly, I have seen other people around me putting things off too. Over the span of 26 years, I have seen my friends, family, classmates, colleagues, and even bosses wait until the last minute to do things they were supposed to do far in advance. One common example is to see some classmates wait until one day or even the night before an assignment is due to start working on it. I have seen students trying to cram textbooks and lecture notes, putting an all-nighter at the library to prepare themselves for an exam the following morning. Scenarios like this become so common that procrastination seems to be harmless. This observation of procrastination is also backed by statistics. In his article *Everyone Files Their Taxes At The Last Minute* published on FiveThirtyEight, Casselman cited statistics from the Internal Revenue Service which shows that one in seven Americans filed their tax returns in the last week before the deadline in April[^2]. The practice of waiting until the last minute appears to be true to voter registration as well. Just the previous midterm election, long lines of people can be seen from the Reynolds Club waiting to register and vote. As there are countless anecdotal examples that show people's procrastination, I am convinced that the observation must be true.
+
+Thirdly, another evidence supporting the claim is from Google search. Typing "procrastination" and "do things last minute" into Google search yields 52.4 million and 1.6 billion results respectively. There is no shortage of media articles, journal and magazine pieces, interviews, and books that attempt to explain *why* people wait until the last minute to do things and *how* to break out of such habit. You can find countless books about the topic even with a short glance at the how-to section at a bookstore. People asked questions about procrastination on Reddit which generated a large number of replies.[^3] Finally, a quick search on the University of Chicago's library website reveals that procrastination is an area of academic research, especially in psychology. This provides the strongest evidence that the observation might be true since some academics even study procrastination rigorously. In 2010 American Psychological Association (APA) published an interview featuring Dr. Joseph Ferrari, a professor of psychology at DePaul University, who is a "leading international researcher in the study of procrastination."[^4] All of the evidence seem to validate that the claim must be based on some truth. Otherwise, we would not have seen in our daily lives and it would not have received attention from the media and academia.
+
+One general explanatory model which could explain procrastination is that people do things at the last minute because they are lazy. Humans are used to being under pressure to be productive. Hence, people need time pressure to stimulate them to get into work mode and get things done. Additionally, some people even feel that they can be more creative and produce higher quality work when pressed for time. Some people desire to minimize the time they spend working on a task as much as possible, so they wait until the very last minute to do it. 
+
+This theory of procrastination leads to at least two predictions. The first prediction is that the lazier a person is, the longer he/she waits before starting to work on a task. This is because the theory claims that the causal mechanism that causes people to wait until the last minute is laziness. The second prediction from this model is that lazy people will produce better or the same quality of work if they start doing things at the last minute. On the contrary, without time pressure and clear deadline, they may not even be able to complete the task because there is no incentive for them to even begin working.
+
+Another general explanatory model that offers an alternative explanation to why people procrastinate is that people do so because they are perfectionists. Instead of starting early, they spend time worrying about how to do the assignment perfectly. They may start to think about the task early, but when their anxiety kicks in, they delay the act of doing. As a result, perfectionists often wait and do things at the last minute. They have a tendency to also do things until the very last minute before they complete the task by or slightly before the deadline. Without the deadline, a perfectionist will not feel liberated.
+
+Unlike the first theory, this model leads to at least two different predictions. Firstly, people who are perfectionists or have a tendency to be a perfectionist will wait until the last minute before they *actually* do things. Because anxiety plays a role in this theory, it speaks to the level of difficulty of the task. So, the second prediction is that the more difficult the task is, the longer these people would wait before beginning to work on it.
+
+As we may see, two models point to two different causal mechanisms that explain the same phenomenon, i.e. why people wait until the last minute to do things.
+
+[^2]: https://fivethirtyeight.com/features/everyone-files-their-taxes-at-the-last-minute/
+[^3]: https://www.quora.com/Procrastination-Why-is-it-that-when-I-do-things-last-minute-I-think-more-clearly-How-do-I-think-as-clearly-whenever-I-want
+[^4]: https://www.apa.org/news/press/releases/2010/04/procrastination.aspx
+
+## Selecting and fitting a model ##
+
+1. For each part, indicate whether we would generally expect the performance of a flexible statistical learning method to be better or worse than an inflexible method. Justify your answer.
+
+    a. The sample size $n$ is extremely large, and the number of predictors $p$ is small.
+        + A flexible method would perform better because the sample size is large. When the sample size is extremely large, flexible methods would fit the data better.
+        
+    b. The number of predictors $p$ is extremely large, and the number of observations $n$ is small.
+        + A more flexible model would perform worse because the number of observations is small. Moreover, when the number of predictors is extremely large, more felxible models may overfit the data and capture too much noise, hence compromising its performance.
+        
+    c. The relationship between the predictors and response is highly non-linear.
+        + Since the relationship is highly non-linear, a more flexible model would perform better because the model will not assume to have any particular functional form in advance and will try to get as close to data points as poosible.
+        
+    d. The variance of the error terms $\sigma^{2} = \text{Var}(\epsilon)$ is extremely high.
+        + A more flexible model would perform worse because it would try to fit the noise in the data.
+    
+Please refer to a Jupyter notebook for the second and the third question of this part.
+
+
+
+
+
